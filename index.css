@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+    
+    
+}
+
+.top{
+    
+    width: 100%;
+    height: 50px;
+    background-color: aquamarine;
+}
+
+
+ul{
+   padding-top: 50px;
+}
+
+h2,h1{
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+ul li{
+    margin-top: 10%;
+    margin-left: 10%;
+    list-style: none;
+   position: absolute;
+    width: 420px;
+    height:  315px;
+   
+}
+
+ul li.item1{
+    top:0;
+    left: 25%;
+
+}
+
+
+
+ul li.item2{
+    top:40%;
+    left: 10%;
+    
+}
+
+ul li.item3{
+    top: 40%;
+    left: 40%;
+    
+}
+ul li.item4{
+    top:84%;
+    left:0;
+    
+}
+ul li.item5{
+    top:84%;
+    left:25%;
+    
+}
+
+ul li.item6{
+    top:84%;
+    left:50%;
+    
+}
+
